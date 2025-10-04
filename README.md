@@ -9,3 +9,4 @@ SafetySnap is an AI-powered safety monitoring platform that detects Personal Pro
 📊 Analytics Dashboard – Visual insights into PPE compliance trends.
 🔐 Duplicate & Hash Handling – Identical uploads return existing IDs via detections_hash.
 ⚙️ RESTful API Support – Full backend with endpoints for image management and filtering.
+🚫 Rate Limiting & Validation – Ensures fair use and API robustness.
