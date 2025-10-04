@@ -10,3 +10,4 @@ SafetySnap is an AI-powered safety monitoring platform that detects Personal Pro
 🔐 Duplicate & Hash Handling – Identical uploads return existing IDs via detections_hash.
 ⚙️ RESTful API Support – Full backend with endpoints for image management and filtering.
 🚫 Rate Limiting & Validation – Ensures fair use and API robustness.
+📑 API Endpoints Method Endpoint Description POST /api/images Upload image (multipart), detect PPE GET /api/images Fetch history with filters: limit, offset, label, from, to GET /api/images/:id Get specific detection result DELETE /api/images/:id Delete uploaded image entry GET /api/labels List available detection labels 💻 Pages
