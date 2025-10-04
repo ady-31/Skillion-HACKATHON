@@ -27,4 +27,18 @@ SafetySnap is an AI-powered safety monitoring platform that detects Personal Pro
 
 /analytics – PPE usage and detection analytics
 
+🧩 Tech Stack
+
+Frontend: React / Next.js
+
+Backend: Node.js + Express
+
+Storage: Cloud / Local FS
+
+AI Model: PPE Object Detection (Helmet, Vest)
+
+Database: MongoDB / PostgreSQL
+
+
+
 
