@@ -39,6 +39,19 @@ AI Model: PPE Object Detection (Helmet, Vest)
 
 Database: MongoDB / PostgreSQL
 
+🧠 Judge Checks
+
+✅ Label/date filters functional
+
+✅ Bounding boxes normalized (0–1)
+
+✅ Hash changes with detections
+
+✅ Rate limits applied
+
+SafetySnap — making worksites safer, one snapshot at a time. 🦺📷
+
+
 
 
 
