@@ -5,3 +5,4 @@ SafetySnap is an AI-powered safety monitoring platform that detects Personal Pro
 🚀 Features
 📸 Image Upload & Detection – Upload images to automatically detect PPE (helmet/vest).
 🧠 AI-Powered PPE Analysis – Bounding boxes with normalized coordinates (0–1).
+🗂 History & Filtering – View and filter past detections by label, date, or ID.
