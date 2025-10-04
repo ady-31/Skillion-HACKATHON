@@ -1,1 +1,1 @@
-Skillion-HACKATHON
+🦺 SafetySnap — Smart PPE Detection & Analytics
